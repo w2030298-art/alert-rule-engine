@@ -4,7 +4,8 @@
 
 ## Related issue
 
-- Closes WEN-
+- GitHub issue (auto-close): Closes #
+- Linear issue: WEN-
 
 ## Validation
 

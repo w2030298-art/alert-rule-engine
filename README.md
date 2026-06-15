@@ -157,6 +157,8 @@ npm run test:cov
 ## Collaboration conventions
 
 - Branch names use scoped prefixes: `feat/...`, `fix/...`, or `chore/...`.
+  Linear/Cursor automation may use `<user-id>/wen-<number>-<slug>` (for example
+  `w2030298/wen-334-协作基线：readme-issuepr-模板-changelog-提交约定`).
 - Commit messages follow Conventional Commits, for example
   `feat: add threshold rule validation`, `fix: handle empty metric names`, or
   `chore: update tooling`.
